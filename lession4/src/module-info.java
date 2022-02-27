@@ -1,0 +1,2 @@
+module lession4 {
+}

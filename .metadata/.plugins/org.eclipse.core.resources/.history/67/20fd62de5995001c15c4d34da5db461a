@@ -1,0 +1,15 @@
+package com.mphasis.filehandling;
+
+import java.io.File;
+
+public class CreatNewFile {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		File file=new File("hello.txt");
+		
+		System.out.println(file);
+	}
+
+}

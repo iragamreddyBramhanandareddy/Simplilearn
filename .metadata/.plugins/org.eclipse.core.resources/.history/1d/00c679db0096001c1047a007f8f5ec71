@@ -1,0 +1,15 @@
+package MyThreads;
+
+public class Admission implements Runnable{
+int seats = 60;
+	public static void main(String[] args) {
+		System.out.println("welcome to Engg Admission");
+		System.out.println("");
+		Admission ad=new Admission();
+		Thread t1=new Thread(ad);
+		t1.setName("surya");
+	
+
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.mphasis.strings&apos; to &apos;com.lesson2.strings&apos;&#x0D;&#x0A;- Original project: &apos;StringDemos&apos;&#x0D;&#x0A;- Original element: &apos;StringDemos/src/com.mphasis.strings&apos;&#x0D;&#x0A;- Renamed element: &apos;StringDemos/src/com.lesson2.strings&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.mphasis.strings&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.mphasis.strings" name="com.lesson2.strings" qualified="false" references="true" stamp="1645935879868" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,16 @@
+package com.mphasis;
+
+public class ArrayDEmo1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	int ar1[]= {};
+	System.out.println(ar1.length);
+	
+	int ar2[]=new int[4];
+	System.out.println(ar2.length);
+	
+	}
+
+}
