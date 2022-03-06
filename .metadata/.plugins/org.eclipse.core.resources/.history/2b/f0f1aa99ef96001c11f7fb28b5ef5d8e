@@ -1,9 +1,0 @@
-package com.Abstraction.com;
-
-public interface HardDisk{
-	
-	public int size();
-	public String speed();
-	
-
-}
