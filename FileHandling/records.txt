@@ -1,3 +1,0 @@
-123,Surya,24,Banglore
-22,sana,22,hyd
-22,sana,23,hyd
